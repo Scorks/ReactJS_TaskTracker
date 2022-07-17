@@ -29,7 +29,7 @@ Your app is ready to be deployed!
 
 ### `npm run server`
 
-Runs the JSON server associated with the task list.\
+Runs the JSON server associated with the task list.
 
 ### `serve -s build -p 5000`
 
